@@ -7,6 +7,6 @@ git clone https://github.com/salbiyahnet/genieacs
 
 cd genieacs
 
-chmod +x installACS.sh
+chmod +x install.sh
 
-./installACS.sh
+./install.sh
